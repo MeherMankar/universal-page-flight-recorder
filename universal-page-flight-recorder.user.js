@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Universal Page Flight Recorder v2.11 — Canonical Telemetry
-// @namespace    https://example.local/page-flight-recorder
+// @namespace    https://github.com/MeherMankar/universal-page-flight-recorder
 // @version      2.11.0
 // @description  Continuous cross-navigation recorder with causal navigation tracing and clean telemetry.
 // @match        *://*/*

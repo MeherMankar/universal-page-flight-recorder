@@ -1,10 +1,15 @@
 // ==UserScript==
-// @name         Universal Page Flight Recorder v2.11 — Canonical Telemetry
+// @name         Universal Page Flight Recorder
 // @namespace    https://github.com/MeherMankar/universal-page-flight-recorder
-// @version      2.11.0
-// @description  Continuous cross-navigation recorder with causal navigation tracing and clean telemetry.
+// @version      2.12.0
+// @description  Browser navigation and page-flow recorder for debugging and authorized testing.
+// @author       MeherMankar
+// @homepage     https://github.com/MeherMankar/universal-page-flight-recorder
+// @homepageURL  https://github.com/MeherMankar/universal-page-flight-recorder
+// @supportURL   https://github.com/MeherMankar/universal-page-flight-recorder/issues
+// @downloadURL  https://raw.githubusercontent.com/MeherMankar/universal-page-flight-recorder/master/universal-page-flight-recorder.user.js
+// @updateURL    https://raw.githubusercontent.com/MeherMankar/universal-page-flight-recorder/master/universal-page-flight-recorder.user.js
 // @match        *://*/*
-// @run-at       document-start
 // @grant        GM_getValue
 // @grant        GM_setValue
 // @grant        GM_deleteValue
